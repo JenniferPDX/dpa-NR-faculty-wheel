@@ -2,7 +2,7 @@
 <meta charset="utf-8">
 <title>DPA, Natural Resources Faculty Activities</title>
 <meta name="description" content="A visualisation of PSU, Department of Public Admin.">
-<link rel="stylesheet" type="text/css" href="../media/mystyle.css">
+<link rel="stylesheet" type="text/css" href="mystyle.css">
 <style> text { font-weight: bold; } </style>
 
 <h1>NAT RES FACULTY ACTIVITIES</h1>
@@ -20,6 +20,7 @@ var width = 840,
     padding = 5,
     duration = 1000;
 
+var fileJSONdata = "wheel-faculty-NR.json";
 var div = d3.select("#vis");
 
 div.select("img").remove();
@@ -40,7 +41,7 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, d.y ? y(d.y) : d.y); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
-d3.json("data/wheel-faculty-03.json", function(error, json) {
+d3.json(fileJSONdata, function(error, json) {
   var nodes = partition.nodes({children: json});
 
   var path = vis.selectAll("path").data(nodes);
