@@ -8,11 +8,6 @@
         "children": [
           {
             "colour": "#36483b",
-            "name": "MPA",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
             "name": "PAP (Teach/core exams/theses)",
             "size": 5
           },
@@ -260,11 +255,6 @@
           {
             "colour": "#36483b",
             "name": "Food Certificate",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "MPA",
             "size": 5
           },
           {
