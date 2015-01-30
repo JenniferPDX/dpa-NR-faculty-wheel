@@ -28,22 +28,7 @@
           },
           {
             "colour": "#36483b",
-            "name": "PA 504: INTERNSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 506",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
             "name": "PA 511: PUBLIC ADMINISTRATION",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 512: REFLECT PRACT, CASE ANALYSIS",
             "size": 5
           },
           {
@@ -264,11 +249,6 @@
           },
           {
             "colour": "#36483b",
-            "name": "PA 502: IS: SUSTAINABLE DEV",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
             "name": "PA 510: FOOD & AGRICULT POLICY",
             "size": 5
           },
@@ -327,27 +307,12 @@
         "children": [
           {
             "colour": "#ae4a1c",
-            "name": "METRO",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "U.S. FOREST SERVICE",
+            "name": "US FOREST SERVICE",
             "size": 5
           },
           {
             "colour": "#ae4a1c",
             "name": "OREGON DEPT OF FORESTRY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CITY OF PORTLAND: CLIMATE ACTION",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CITY OF PORTLAND, MAYOR'S OFFICE",
             "size": 5
           },
           {
@@ -367,32 +332,27 @@
           },
           {
             "colour": "#ae4a1c",
-            "name": "OUS INST. FOR NR ADVISORY COM",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "UW: NR FACULTY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "UO: ECOSYSTEM WORKFORCE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "NEIL KELLY PRIVATE COMPANY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CELILO GROUP",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
             "name": "OREGON BUSINESS COUNCIL",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "METRO",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CITY OF PORTLAND, MAYOR'S OFFICE",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CITY OF PORTLAND: CLIMATE ACTION",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "OUS INST FOR NR ADVISORY COM",
             "size": 5
           },
           {
@@ -402,7 +362,27 @@
           },
           {
             "colour": "#ae4a1c",
+            "name": "UO: ECOSYSTEM WORKFORCE",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "UW: NR FACULTY",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CELILO GROUP",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
             "name": "ILLAHEE (HUMANITIES GRP)",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "NEIL KELLY PRIVATE COMPANY",
             "size": 5
           }
         ]
@@ -423,12 +403,12 @@
           },
           {
             "colour": "#fd8d3c",
-            "name": "CHAIR, STANDARDS, UNIV CAP COM",
+            "name": "STANDARDS, UNIV CAP COM, CHAIR",
             "size": 5
           },
           {
             "colour": "#fd8d3c",
-            "name": "FACULTY REVIEW COMS",
+            "name": "FACULTY REVIEW COM",
             "size": 5
           }
         ]
