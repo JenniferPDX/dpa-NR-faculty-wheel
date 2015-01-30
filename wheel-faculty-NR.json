@@ -131,37 +131,12 @@
         "children": [
           {
             "colour": "#ae4a1c",
-            "name": "ENR EXEC SEMINAR",
+            "name": "US ARMY CORPS OF ENGINEERS.",
             "size": 5
           },
           {
             "colour": "#ae4a1c",
-            "name": "INTER TRIBAL GOVERT",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "INST. FOR SUSTAIN SOLUT.",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "NAT POLICY CONS CENTER",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CENTER FOR PUB SER (HATFIELD)",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "U.S. ARMY CORPS OF ENGS.",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "U.S. FOREST SERVICE",
+            "name": "US FOREST SERVICE",
             "size": 5
           },
           {
@@ -171,12 +146,37 @@
           },
           {
             "colour": "#ae4a1c",
-            "name": "OREGON STATE: ENV'L GROUP",
+            "name": "OREGON STATE ENV'L GROUP",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "INTER TRIBAL GOVERT",
             "size": 5
           },
           {
             "colour": "#ae4a1c",
             "name": "COLUMBIA RIVER GORGE COM",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "ENR EXEC SEMINAR",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "INST FOR SUSTAIN SOLUT., PSU",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "NAT POLICY CONS CENTER, PSU",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CENTER FOR PUB SER (HATFIELD)",
             "size": 5
           }
         ]
