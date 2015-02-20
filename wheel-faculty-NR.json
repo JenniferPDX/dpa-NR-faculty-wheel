@@ -6,196 +6,68 @@
         "colour": "#36483b",
         "name": "TEACHING/=GEN & NAT RES",
         "children": [
-          {
-            "colour": "#36483b",
-            "name": "FOOD CERTIFICATE",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "NON PROFIT MANAGEMENT CERT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PAP (Teach/exams/theses)",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: FOOD & AGRICULT POLICY",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 553: SUST DEV: POLICY & GOV",
-            "size": 5
-          }
+          { "colour": "#36483b", "name": "FOOD CERTIFICATE", "size": 5 },
+          { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "PAP (Teach/exams/theses)", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: FOOD & AGRICULT POLICY", "size": 5 },
+          { "colour": "#36483b", "name": "PA 553: SUST DEV: POLICY & GOV", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          {
-            "colour": "#667A66",
-            "name": "MPA",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "PAP",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "PASA",
-            "size": 5
-          }
+          { "colour": "#667A66", "name": "MPA", "size": 5 },
+          { "colour": "#667A66", "name": "PAP", "size": 5 },
+          { "colour": "#667A66", "name": "PASA", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-          {
-            "colour": "#C0CCC0",
-            "name": "SUSTAINABLE ECONOMIC DEVEL",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "ENR POLICY/ADMIN",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "SUSTAINABILITY IN HIGHER ED",
-            "size": 5
-          }
+          { "colour": "#C0CCC0", "name": "SUSTAINABLE ECONOMIC DEVEL", "size": 5 },
+          { "colour": "#C0CCC0", "name": "ENR POLICY/ADMIN", "size": 5 },
+          { "colour": "#C0CCC0", "name": "SUSTAINABILITY IN HIGHER ED", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          {
-            "colour": "#ae4a1c",
-            "name": "US FOREST SERVICE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OREGON DEPT OF FORESTRY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OR GOVS' TF ON GE IN AG, CO CONV",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OREGON DEPT OF AGRIC",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OREGON ENV'L COUNCIL",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OREGON BUSINESS COUNCIL",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "METRO",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CITY OF PORTLAND, MAYOR'S OFFICE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CITY OF PORTLAND: CLIMATE ACTION",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OUS INST FOR NR ADVISORY COM",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "PSU'S ESM FACULTY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "UO: ECOSYSTEM WORKFORCE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "UW: NR FACULTY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CELILO GROUP",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "ILLAHEE (HUMANITIES GRP)",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "NEIL KELLY PRIVATE COMPANY",
-            "size": 5
-          }
+          { "colour": "#ae4a1c", "name": "US FOREST SERVICE", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OREGON DEPT OF FORESTRY", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OR GOVS' TF ON GE IN AG, CO CONV", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OREGON DEPT OF AGRIC", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OREGON ENV'L COUNCIL", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OREGON BUSINESS COUNCIL", "size": 5 },
+          { "colour": "#ae4a1c", "name": "METRO", "size": 5 },
+          { "colour": "#ae4a1c", "name": "CITY OF PORTLAND, MAYOR'S OFFICE", "size": 5 },
+          { "colour": "#ae4a1c", "name": "CITY OF PORTLAND: CLIMATE ACTION", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OUS INST FOR NR ADVISORY COM", "size": 5 },
+          { "colour": "#ae4a1c", "name": "PSU'S ESM FACULTY", "size": 5 },
+          { "colour": "#ae4a1c", "name": "UO: ECOSYSTEM WORKFORCE", "size": 5 },
+          { "colour": "#ae4a1c", "name": "UW: NR FACULTY", "size": 5 },
+          { "colour": "#ae4a1c", "name": "CELILO GROUP", "size": 5 },
+          { "colour": "#ae4a1c", "name": "ILLAHEE (HUMANITIES GRP)", "size": 5 },
+          { "colour": "#ae4a1c", "name": "NEIL KELLY PRIVATE COMPANY", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
         "name": "COMS &=TASK FORCES",
         "children": [
-          {
-            "colour": "#fd8d3c",
-            "name": "COLL ACROSS THE COLLEGE",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "UNIV CAPITAL DEVEL COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "STANDARDS, UNIV CAP COM, CHAIR",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "FACULTY REVIEW COM",
-            "size": 5
-          }
+          { "colour": "#fd8d3c", "name": "COLL ACROSS THE COLLEGE", "size": 5 },
+          { "colour": "#fd8d3c", "name": "UNIV CAPITAL DEVEL COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "STANDARDS, UNIV CAP COM, CHAIR", "size": 5 },
+          { "colour": "#fd8d3c", "name": "FACULTY REVIEW COM", "size": 5 }
         ]
       },
       {
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          {
-            "colour": "#fdbe85",
-            "name": "INST SUSTAIN SOLUTIONS, DIR",
-            "size": 50
-          }
+          { "colour": "#fdbe85", "name": "INST SUSTAIN SOLUTIONS, DIR", "size": 5 }
         ]
       }
     ]
@@ -207,226 +79,74 @@
         "colour": "#36483b",
         "name": "TEACHING/=GEN & NAT RES",
         "children": [
-          {
-            "colour": "#36483b",
-            "name": "PAP (Teach/exams/theses)",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "EMPA",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "ENERGY CERT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "NON PROFIT MGT CERT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 511: PUBLIC ADMINISTRATION",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 518: LEADING PUBLIC ORGS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 533: PUB POLICY ORIG, PROC",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA/EMPA 539: NAT'L POLICY PROC",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 564: ISS ENVR POL & ADMIN",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 565: NATL RESRC POL/ADMIN",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 569: FISH & WILDLIFE/POL/ADMIN",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 570: ENVIRONMENTAL LEADERSHP",
-            "size": 5
-          }
+          { "colour": "#36483b", "name": "PAP (Teach/exams/theses)", "size": 5 },
+          { "colour": "#36483b", "name": "EMPA", "size": 5 },
+          { "colour": "#36483b", "name": "ENERGY CERT", "size": 5 },
+          { "colour": "#36483b", "name": "NON PROFIT MGT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 511: PUBLIC ADMINISTRATION", "size": 5 },
+          { "colour": "#36483b", "name": "PA 518: LEADING PUBLIC ORGS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 533: PUB POLICY ORIG, PROC", "size": 5 },
+          { "colour": "#36483b", "name": "PA/EMPA 539: NAT'L POLICY PROC", "size": 5 },
+          { "colour": "#36483b", "name": "PA 564: ISS ENVR POL & ADMIN", "size": 5 },
+          { "colour": "#36483b", "name": "PA 565: NATL RESRC POL/ADMIN", "size": 5 },
+          { "colour": "#36483b", "name": "PA 569: FISH & WILDLIFE/POL/ADMIN", "size": 5 },
+          { "colour": "#36483b", "name": "PA 570: ENVIRONMENTAL LEADERSHP", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          {
-            "colour": "#667A66",
-            "name": "EMPA",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "MPA",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "PAP",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "PHD: HEALTH POLICY",
-            "size": 5
-          }
+          { "colour": "#667A66", "name": "EMPA", "size": 5 },
+          { "colour": "#667A66", "name": "MPA", "size": 5 },
+          { "colour": "#667A66", "name": "PAP", "size": 5 },
+          { "colour": "#667A66", "name": "PHD: HEALTH POLICY", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-          {
-            "colour": "#C0CCC0",
-            "name": "CPS (HATFIELD)",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "PUBLIC SERVICE NEW GOVERNANCE",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "FOUNDS OF PUBLIC SERVICE",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "NR: FORESTRY, COLUMBIA GORGE",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "LOCAL GOVERNMENT",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "INTERTRIBAL GOVERNANCE",
-            "size": 5
-          }
+          { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
+          { "colour": "#C0CCC0", "name": "PUBLIC SERVICE NEW GOVERNANCE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "FOUNDS OF PUBLIC SERVICE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "NR: FORESTRY, COLUMBIA GORGE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "LOCAL GOVERNMENT", "size": 5 },
+          { "colour": "#C0CCC0", "name": "INTERTRIBAL GOVERNANCE", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          {
-            "colour": "#ae4a1c",
-            "name": "CPS (CORE FACULTY)",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "US ARMY CORPS OF ENGINEERS",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "US FOREST SERVICE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OREGON DEPT FORESTRY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OREGON STATE ENV'L GROUP",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "INTER TRIBAL GOVERT",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "COLUMBIA RIVER GORGE COM",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "ENR EXEC SEMINAR",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "INST FOR SUSTAIN SOLUT, PSU",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "NAT POLICY CONS CENTER, PSU",
-            "size": 5
-          }
+          { "colour": "#ae4a1c", "name": "CPS (CORE FACULTY)", "size": 5 },
+          { "colour": "#ae4a1c", "name": "US ARMY CORPS OF ENGINEERS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "US FOREST SERVICE", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OREGON DEPT FORESTRY", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OREGON STATE ENV'L GROUP", "size": 5 },
+          { "colour": "#ae4a1c", "name": "INTER TRIBAL GOVERT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "COLUMBIA RIVER GORGE COM", "size": 5 },
+          { "colour": "#ae4a1c", "name": "ENR EXEC SEMINAR", "size": 5 },
+          { "colour": "#ae4a1c", "name": "INST FOR SUSTAIN SOLUT, PSU", "size": 5 },
+          { "colour": "#ae4a1c", "name": "NAT POLICY CONS CENTER, PSU", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
         "name": "COMS &=TASK FORCES",
         "children": [
-          {
-            "colour": "#fd8d3c",
-            "name": "DEAN'S FUTURES COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "PAP COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "FACULTY REVIEW COMS",
-            "size": 5
-          }
+          { "colour": "#fd8d3c", "name": "DEAN'S FUTURES COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "PAP COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "FACULTY REVIEW COMS", "size": 5 }
         ]
       },
       {
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          {
-            "colour": "#fdbe85",
-            "name": "EMPA",
-            "size": 5
-          },
-          {
-            "colour": "#fdbe85",
-            "name": "MPP, INTERIM DIR",
-            "size": 5
-          },
-          {
-            "colour": "#fdbe85",
-            "name": "PA 512 FIELDWORK",
-            "size": 5
-          }
+          { "colour": "#fdbe85", "name": "EMPA", "size": 5 },
+          { "colour": "#fdbe85", "name": "MPP, INTERIM DIR", "size": 5 },
+          { "colour": "#fdbe85", "name": "PA 512 FIELDWORK", "size": 5 }
         ]
       }
     ]
