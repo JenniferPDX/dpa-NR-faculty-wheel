@@ -137,6 +137,7 @@
         "children": [
           { "colour": "#fd8d3c", "name": "DEAN'S FUTURES COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "PAP COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "P & T COMS", "size": 5 },
           { "colour": "#fd8d3c", "name": "FACULTY REVIEW COMS", "size": 5 }
         ]
       },
