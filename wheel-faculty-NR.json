@@ -7,6 +7,7 @@
         "name": "TEACHING/=GEN & NAT RES",
         "children": [
           { "colour": "#36483b", "name": "FOOD CERTIFICATE", "size": 5 },
+          { "colour": "#36483b", "name": "SUSTAINABILITY CDERTIFICATE", "size": 5 },
           { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
           { "colour": "#36483b", "name": "PAP (Teach/exams/theses)", "size": 5 },
           { "colour": "#36483b", "name": "PA 510: FOOD & AGRICULT POLICY", "size": 5 },
@@ -17,8 +18,7 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "PAP", "size": 5 },
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 },
           { "colour": "#667A66", "name": "PASA", "size": 5 }
         ]
       },
@@ -90,16 +90,17 @@
           { "colour": "#36483b", "name": "PA 564: ISS ENVR POL & ADMIN", "size": 5 },
           { "colour": "#36483b", "name": "PA 565: NATL RESRC POL/ADMIN", "size": 5 },
           { "colour": "#36483b", "name": "PA 569: FISH & WILDLIFE/POL/ADMIN", "size": 5 },
-          { "colour": "#36483b", "name": "PA 570: ENVIRONMENTAL LEADERSHP", "size": 5 }
+          { "colour": "#36483b", "name": "PA 570: ENVIRONMENTAL LEADERSHP", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 610: NEW PUBLC GOVRNCE", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 610: CITATION ANALYSIS", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 694: SOCIAL PRACTICES & ECOSYSTEMS", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "EMPA", "size": 5 },
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "PAP", "size": 5 },
+          { "colour": "#667A66", "name": "MPA, EMPA, PAP", "size": 5 },
           { "colour": "#667A66", "name": "PHD: HEALTH POLICY", "size": 5 }
         ]
       },
@@ -145,6 +146,7 @@
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
+          { "colour": "#fdbe85", "name": "NATURAL RESOURCES, FACULTY LEAD", "size": 5 },
           { "colour": "#fdbe85", "name": "EMPA", "size": 5 },
           { "colour": "#fdbe85", "name": "MPP, INTERIM DIR", "size": 5 },
           { "colour": "#fdbe85", "name": "PA 512 FIELDWORK", "size": 5 }
