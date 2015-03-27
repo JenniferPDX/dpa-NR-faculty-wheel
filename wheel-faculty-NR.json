@@ -57,7 +57,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "COLL ACROSS THE COLLEGE", "size": 5 },
           { "colour": "#fd8d3c", "name": "UNIV CAPITAL DEVEL COM", "size": 5 },
@@ -136,7 +136,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "DEAN'S FUTURES COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "PAP COM", "size": 5 },
